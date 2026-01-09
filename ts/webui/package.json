@@ -18,7 +18,7 @@
     "react-json-tree": "^0.18.0",
     "react-monaco-editor": "^0.52.0",
     "react-paginate": "^8.1.4",
-    "react-router-dom": "^6.9.0"
+    "react-router-dom": "^6.30.3"
   },
   "devDependencies": {
     "@babel/core": ">=7.21.3",
